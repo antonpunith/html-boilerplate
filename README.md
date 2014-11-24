@@ -48,10 +48,10 @@ OR
 
 ## Libraries ##
 
-http://bower.io/
-http://gruntjs.com/
-http://compass-style.org/
-http://getbootstrap.com/
-http://fortawesome.github.io/Font-Awesome/
+1. http://bower.io/
+2. http://gruntjs.com/
+3. http://compass-style.org/
+4. http://getbootstrap.com/
+5. http://fortawesome.github.io/Font-Awesome/
 
 
