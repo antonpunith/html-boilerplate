@@ -1,0 +1,26 @@
+{
+  "name": "html-boilerplate",
+  "version": "0.0.0",
+  "description": "HTML boilerplate",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://antonpunith@bitbucket.org/troutcreativethinking/html-boilerplate.git"
+  },
+  "keywords": [
+    "HTML",
+    "Bootstrap",
+    "boilerplate"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+  "author": "Anton",
+  "license": "MIT"
+}

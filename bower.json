@@ -1,0 +1,28 @@
+{
+  "name": "html-boilerplate",
+  "version": "0.1",
+  "authors": [
+    "Anton"
+  ],
+  "description": "HTML Boilerplate with Bootstrap 3 and Fontawesome 4",
+  "keywords": [
+    "HTML",
+    "Boilerplate",
+    "CSS",
+    "Javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "1.11.0",
+    "font-awesome": "~4.2.0",
+    "bootstrap-sass": "~3.0.2"
+  }
+}
