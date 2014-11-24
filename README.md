@@ -21,7 +21,7 @@ Dependencies: Node, bower and ruby
 1. sudo npm install -g grunt-cli
 
 ###Install Compass ###
-[Grunt](http://gruntjs.com/getting-started)
+[Compass](http://compass-style.org/install/)
 
 1. sudo gem install compass
 
